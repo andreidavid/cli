@@ -1,0 +1,33 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "c172b811ee56",
+  "session_id": "179107b8-208c-4984-acb3-5c438d9902ff",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-14T16:29:45.178592636Z",
+  "branch": "feat/strict-redaction-tests",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "cmd/entire/cli/checkpoint/checkpoint.go",
+    "cmd/entire/cli/checkpoint/checkpoint_test.go",
+    "cmd/entire/cli/checkpoint/committed.go"
+  ],
+  "agent": "Claude Code",
+  "transcript_identifier_at_start": "90afb3ed-29a2-4d12-ba86-99b55530f008",
+  "token_usage": {
+    "input_tokens": 86,
+    "cache_creation_tokens": 155183,
+    "cache_read_tokens": 9264061,
+    "output_tokens": 5058,
+    "api_call_count": 70
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-14T16:29:43.245421772Z",
+    "agent_lines": 224,
+    "human_added": 161,
+    "human_modified": 5,
+    "human_removed": 0,
+    "total_committed": 390,
+    "agent_percentage": 57.43589743589743
+  },
+  "transcript_path": ".claude/projects/-home-andrei-projects-cli/179107b8-208c-4984-acb3-5c438d9902ff.jsonl"
+}
